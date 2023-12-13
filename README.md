@@ -18,4 +18,4 @@ This Snake game is a classic arcade-style game where the player controls a snake
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/pushkqr/snake-game.git
